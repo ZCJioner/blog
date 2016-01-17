@@ -2,13 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>无标题文档</title>
+<title>ZCJinoer</title>
 </head>
 
 <body>
+<<<<<<< HEAD
 <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td bordercolor="0"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+=======
+<table height="100%" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bordercolor="0"><table width="100%"  height="600px" border="0" cellspacing="0" cellpadding="0">
+>>>>>>> origin/master
   <tr>
     <td align="center" style="font-size:24px; font-weight:bolder;">ZCJioner</td>
   </tr>
